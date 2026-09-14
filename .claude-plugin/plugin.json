@@ -1,0 +1,22 @@
+{
+  "name": "tradehand",
+  "displayName": "Tradehand",
+  "version": "0.1.0",
+  "description": "Browse and book local tradespeople in the UK. Find profiles and services, prepare a quote or booking review, then confirm on Tradehand.",
+  "author": {
+    "name": "Outside HQ LTD",
+    "email": "blake@humanleap.com",
+    "url": "https://tradehand.com"
+  },
+  "homepage": "https://tradehand.com/developers",
+  "repository": "https://github.com/Humanleap/tradehand-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "tradespeople",
+    "uk",
+    "local",
+    "booking",
+    "quotes",
+    "mcp"
+  ]
+}
