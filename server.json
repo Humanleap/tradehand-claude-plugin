@@ -1,0 +1,25 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.Humanleap/tradehand",
+  "title": "Tradehand",
+  "description": "Browse and book local tradespeople in the UK.",
+  "version": "0.1.0",
+  "websiteUrl": "https://tradehand.com/developers",
+  "repository": {
+    "url": "https://github.com/Humanleap/tradehand-claude-plugin",
+    "source": "github"
+  },
+  "icons": [
+    {
+      "src": "https://tradehand.com/apple-touch-icon.png",
+      "mimeType": "image/png",
+      "sizes": ["180x180"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://tradehand.com/api/mcp"
+    }
+  ]
+}

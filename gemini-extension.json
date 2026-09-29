@@ -1,0 +1,10 @@
+{
+  "name": "tradehand",
+  "version": "0.1.0",
+  "description": "Browse and book local tradespeople in the UK.",
+  "mcpServers": {
+    "tradehand": {
+      "httpUrl": "https://tradehand.com/api/mcp"
+    }
+  }
+}
